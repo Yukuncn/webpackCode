@@ -1,0 +1,22 @@
+{
+  "name": "webpackcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukuncn/webpackCode.git"
+  },
+  "author": "BestRvienNa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yukuncn/webpackCode/issues"
+  },
+  "homepage": "https://github.com/Yukuncn/webpackCode#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
